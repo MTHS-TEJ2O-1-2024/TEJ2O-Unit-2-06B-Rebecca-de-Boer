@@ -2,7 +2,7 @@
  *
  * Created by: Rebecca de Boer
  * Created on: Oct 2024
- * This program ...
+ * This program turns on and off an led
 */
 
 //setup//
